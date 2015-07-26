@@ -1,0 +1,5 @@
+name: Test Ajax
+type: module
+description: "Test Ajax"
+package: Test
+core: 8.x

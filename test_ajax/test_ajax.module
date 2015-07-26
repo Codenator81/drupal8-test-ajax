@@ -1,0 +1,11 @@
+<?php
+/**
+ * Implements hook_theme().
+ */
+function test_ajax_theme() {
+  return array(
+    'test_ajax_template' => array(
+      'template' => 'test_ajax',
+    ),
+  );
+}

@@ -1,0 +1,5 @@
+name: Resp Ajax
+type: module
+description: "Ajax Response Module"
+package: Test
+core: 8.x

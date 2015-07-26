@@ -1,0 +1,6 @@
+resp_ajax.new_hello_text:
+  path: '/resp_ajax/new_hello_text'
+  defaults:
+    _controller: '\Drupal\resp_ajax\Controller\RespAjaxController::renderNewHelloText'
+  requirements:
+    _permission: 'access content'

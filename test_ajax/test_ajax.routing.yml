@@ -1,0 +1,6 @@
+test_ajax.test_page:
+  path: '/test_ajax/hello_text'
+  defaults:
+    _controller: '\Drupal\test_ajax\Controller\TestAjaxController::testAjax'
+  requirements:
+    _permission: 'access content'

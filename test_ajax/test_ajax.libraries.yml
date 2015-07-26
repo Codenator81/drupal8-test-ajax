@@ -1,0 +1,7 @@
+test.ajax.new-text-hello:
+  version: VERSION
+  js:
+    js/new-text.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
